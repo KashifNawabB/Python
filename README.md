@@ -1,2 +1,4 @@
 # Python
-AlgoExpert Problem solutions by Kashif Ali
+Python Coding Challenges Solutions by Kashif Ali
+AlgoExpert Problems
+Turing Problems
